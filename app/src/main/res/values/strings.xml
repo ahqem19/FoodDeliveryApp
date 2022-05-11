@@ -1,3 +1,48 @@
 <resources>
-    <string name="app_name">FoodApplication</string>
+    <string name="app_name">Foodie</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notifications">Notifications</string>
+    <string name="textview">TextView</string>
+
+    <string-array name="State">
+        <item>Dematagoda</item>
+        <item>Colombo</item>
+    </string-array>
+
+    <string-array name="Delivery_man">
+        <item>Delivery man 1</item>
+        <item>Delivery man 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Rice and curry</item>
+        <item>Biriyani</item>
+        <item>Cheese roti</item>
+        <item>Chappathi</item>
+        <item>Fried Chicken</item>
+        <item>Chicken 65</item>
+        <item>BBQ</item>
+        <item>Hoppers</item>
+        <item>String hoppers</item>
+        <item>Parata</item>
+        <item>Idly</item>
+        <item>Gulab Jamun</item>
+        <item>Nasi goreng</item>
+        <item>Chicken submarine</item>
+        <item>Fried rice</item>
+        <item>Mongolian rice</item>
+        <item>Chicken kottu</item>
+        <item>Beef kottu</item>
+        <item>Cheese naan</item>
+        <item>Chicken tikka</item>
+        <item>Fish fry</item>
+        <item>Dum Biryani</item>
+        <item>Thosai</item>
+        <item>Donut</item>
+        <item>Samosa</item>
+        <item>Patis</item>
+        <item>Pastry</item>
+
+    </string-array>
 </resources>
